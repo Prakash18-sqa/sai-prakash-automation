@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Opening Browser]]>
+    </line>
+    <line>
+      <![CDATA[Opening Browser]]>
+    </line>
+    <line>
+      <![CDATA[Method is Performing]]>
+    </line>
+    <line>
+      <![CDATA[Method is Performing]]>
+    </line>
+    <line>
+      <![CDATA[Page Title : DEMOQA]]>
+    </line>
+    <line>
+      <![CDATA[Alert message is : You clicked a button]]>
+    </line>
+    <line>
+      <![CDATA[Test is Passed]]>
+    </line>
+    <line>
+      <![CDATA[Method executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test is : false]]>
+    </line>
+    <line>
+      <![CDATA[currentTitle is W3Schools Tryit Editor]]>
+    </line>
+    <line>
+      <![CDATA[Closing Popup: W3Schools Tryit Editor]]>
+    </line>
+    <line>
+      <![CDATA[Title : W3Schools Tryit Editor]]>
+    </line>
+    <line>
+      <![CDATA[currentTitle is W3Schools Online Web Tutorials]]>
+    </line>
+    <line>
+      <![CDATA[Closing Popup: W3Schools Online Web Tutorials]]>
+    </line>
+    <line>
+      <![CDATA[Title : W3Schools Online Web Tutorials]]>
+    </line>
+    <line>
+      <![CDATA[Method executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Opening Browser]]>
+    </line>
+    <line>
+      <![CDATA[Method is Performing]]>
+    </line>
+    <line>
+      <![CDATA[ChromeTitle : DEMOQA]]>
+    </line>
+    <line>
+      <![CDATA[Method executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-10T17:56:57 IST" name="Suite1" finished-at="2024-07-10T17:58:51 IST" duration-ms="113332">
+    <groups>
+    </groups>
+    <test started-at="2024-07-10T17:56:57 IST" name="smoke suite" finished-at="2024-07-10T17:58:18 IST" duration-ms="81023">
+      <class name="seleniumtests.Selenium_SwitchToCommand_Assignment">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:seleniumtests.Selenium_SwitchToCommand_Assignment@428640fa]" started-at="2024-07-10T17:56:57 IST" name="beforeTest" finished-at="2024-07-10T17:56:57 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:seleniumtests.Selenium_SwitchToCommand_Assignment@428640fa]" started-at="2024-07-10T17:56:57 IST" name="beforeClass" finished-at="2024-07-10T17:56:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:seleniumtests.Selenium_SwitchToCommand_Assignment@428640fa]" started-at="2024-07-10T17:56:57 IST" name="beforeMethod" finished-at="2024-07-10T17:56:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Method is Performing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SwitchToCommands()[pri:0, instance:seleniumtests.Selenium_SwitchToCommand_Assignment@428640fa]" started-at="2024-07-10T17:56:57 IST" name="SwitchToCommands" finished-at="2024-07-10T17:58:18 IST" duration-ms="80868" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test is : false]]>
+            </line>
+            <line>
+              <![CDATA[currentTitle is W3Schools Tryit Editor]]>
+            </line>
+            <line>
+              <![CDATA[Closing Popup: W3Schools Tryit Editor]]>
+            </line>
+            <line>
+              <![CDATA[Title : W3Schools Tryit Editor]]>
+            </line>
+            <line>
+              <![CDATA[currentTitle is W3Schools Online Web Tutorials]]>
+            </line>
+            <line>
+              <![CDATA[Closing Popup: W3Schools Online Web Tutorials]]>
+            </line>
+            <line>
+              <![CDATA[Title : W3Schools Online Web Tutorials]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SwitchToCommands -->
+        <test-method is-config="true" signature="aftereMethod()[pri:0, instance:seleniumtests.Selenium_SwitchToCommand_Assignment@428640fa]" started-at="2024-07-10T17:58:18 IST" name="aftereMethod" finished-at="2024-07-10T17:58:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Method executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftereMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:seleniumtests.Selenium_SwitchToCommand_Assignment@428640fa]" started-at="2024-07-10T17:58:18 IST" name="afterClass" finished-at="2024-07-10T17:58:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:seleniumtests.Selenium_SwitchToCommand_Assignment@428640fa]" started-at="2024-07-10T17:58:18 IST" name="afterTest" finished-at="2024-07-10T17:58:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- seleniumtests.Selenium_SwitchToCommand_Assignment -->
+      <class name="seleniumtests.Selenium_Alerts_Tests_SimpleAlerts">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:seleniumtests.Selenium_Alerts_Tests_SimpleAlerts@b9b00e0]" started-at="2024-07-10T17:56:57 IST" name="beforeClass" finished-at="2024-07-10T17:56:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:seleniumtests.Selenium_Alerts_Tests_SimpleAlerts@b9b00e0]" started-at="2024-07-10T17:56:57 IST" name="beforeMethod" finished-at="2024-07-10T17:56:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Method is Performing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SimpleAlert()[pri:0, instance:seleniumtests.Selenium_Alerts_Tests_SimpleAlerts@b9b00e0]" started-at="2024-07-10T17:56:57 IST" name="SimpleAlert" finished-at="2024-07-10T17:57:50 IST" duration-ms="52568" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Page Title : DEMOQA]]>
+            </line>
+            <line>
+              <![CDATA[Alert message is : You clicked a button]]>
+            </line>
+            <line>
+              <![CDATA[Test is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SimpleAlert -->
+        <test-method is-config="true" signature="aftereMethod()[pri:0, instance:seleniumtests.Selenium_Alerts_Tests_SimpleAlerts@b9b00e0]" started-at="2024-07-10T17:57:50 IST" name="aftereMethod" finished-at="2024-07-10T17:57:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Method executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftereMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:seleniumtests.Selenium_Alerts_Tests_SimpleAlerts@b9b00e0]" started-at="2024-07-10T17:57:50 IST" name="afterClass" finished-at="2024-07-10T17:57:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- seleniumtests.Selenium_Alerts_Tests_SimpleAlerts -->
+    </test> <!-- smoke suite -->
+    <test started-at="2024-07-10T17:58:19 IST" name="smoke suite1" finished-at="2024-07-10T17:58:51 IST" duration-ms="32108">
+      <class name="seleniumtests.CrossBrowser_Test1">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:seleniumtests.CrossBrowser_Test1@3e27aa33]" started-at="2024-07-10T17:58:19 IST" name="beforeTest" finished-at="2024-07-10T17:58:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:seleniumtests.CrossBrowser_Test1@3e27aa33]" started-at="2024-07-10T17:58:19 IST" name="beforeClass" finished-at="2024-07-10T17:58:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:seleniumtests.CrossBrowser_Test1@3e27aa33]" started-at="2024-07-10T17:58:19 IST" name="beforeMethod" finished-at="2024-07-10T17:58:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Method is Performing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LaunchBrowser()[pri:0, instance:seleniumtests.CrossBrowser_Test1@3e27aa33]" started-at="2024-07-10T17:58:19 IST" name="LaunchBrowser" finished-at="2024-07-10T17:58:51 IST" duration-ms="32091" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ChromeTitle : DEMOQA]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method is-config="true" signature="aftereMethod()[pri:0, instance:seleniumtests.CrossBrowser_Test1@3e27aa33]" started-at="2024-07-10T17:58:51 IST" name="aftereMethod" finished-at="2024-07-10T17:58:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Method executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftereMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:seleniumtests.CrossBrowser_Test1@3e27aa33]" started-at="2024-07-10T17:58:51 IST" name="afterClass" finished-at="2024-07-10T17:58:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:seleniumtests.CrossBrowser_Test1@3e27aa33]" started-at="2024-07-10T17:58:51 IST" name="afterTest" finished-at="2024-07-10T17:58:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- seleniumtests.CrossBrowser_Test1 -->
+    </test> <!-- smoke suite1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
