@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" parallel="classes" thread-count="3">
+  <test name="smoke suite">
+    <classes>
+       <class name="seleniumtests.Selenium_SwitchToCommand_Assignment"/>
+       <class name="seleniumtests.Selenium_Alerts_Tests_SimpleAlerts"/>
+    </classes>
+ </test>
+ <test name="smoke suite1">
+    <classes>
+       <class name="seleniumtests.CrossBrowser_Test1"/>
+    </classes>
+ </test>
+</suite>
+
+  
